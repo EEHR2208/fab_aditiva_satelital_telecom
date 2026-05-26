@@ -1,0 +1,23 @@
+{
+    "fig1.png": {
+        "prompt_ia": "2D technical vector diagram, engineering schematic, flat design, minimalista, fondo blanco puro, colores azul cobalto #0047AB y gris técnico #4A4A4A, sin sombras, sin gradientes, sin texto incrustado. Gráfico de líneas mostrando evolución temporal de la masa específica (kg/kW) en plataformas satelitales de telecomunicaciones desde 2010 hasta 2026. Dos líneas: una para fabricación tradicional (descenso moderado) y otra para adopción de AM (descenso pronunciado). Ejes claramente marcados con marcas técnicas. Estilo limpio IEEE, líneas gruesas precisas, puntos de datos marcados con círculos rellenos."
+    },
+    "fig2.png": {
+        "prompt_ia": "2D technical vector diagram, engineering schematic, flat design, minimalista, fondo blanco puro, colores azul cobalto #0047AB y gris técnico #4A4A4A, negro para líneas y detalles, sin sombras, sin gradientes, sin texto incrustado. Composición side-by-side: a la izquierda, vista en corte de un bracket estructural con patrón lattice interno optimizado (geometría hexagonal-triangular visible). A la derecha, antena RF de horn o reflector con alimentador integrado y canales internos de refrigeración. Líneas técnicas limpias, vistas isométricas y secciones transversales claras, estilo IEEE preciso y profesional."
+    },
+    "fig3.png": {
+        "prompt_ia": "2D technical vector diagram, engineering schematic, flat design, minimalista, fondo blanco puro, colores azul cobalto #0047AB y gris técnico #4A4A4A, negro para líneas y flechas, sin sombras, sin gradientes, sin texto incrustado. Diagrama de flujo claro tipo flowchart IEEE mostrando el proceso DfAM completo: bloques rectangulares y romboides conectados por flechas direccionales. Etapas visibles: Definición de Requisitos, Optimización Topológica, Generación Lattice, Selección Material/Proceso, Simulación Multidisciplinaria (Estructural, Térmica, RF), Validación Manufacturabilidad, Fabricación e Iteración. Diseño limpio, organizado verticalmente con subdivisiones claras, estilo técnico profesional."
+    },
+    "fig4.png": {
+        "prompt_ia": "2D technical vector diagram, engineering schematic, flat design, minimalista, fondo blanco puro, colores azul cobalto #0047AB y gris técnico #4A4A4A, negro para líneas y curvas, sin sombras, sin gradientes, sin texto incrustado. Diagramas polares superpuestos de ganancia de antena (dB) en plano E (azul) y plano H (gris). Dos configuraciones comparadas: línea continua para diseño AM y línea discontinua para tradicional. Marcas angulares cada 30°, círculos concéntricos de ganancia. Estilo IEEE limpio y preciso."
+    },
+    "grafica1.png": {
+        "prompt_ia": "2D technical vector diagram, engineering schematic, flat design, minimalista, fondo blanco puro, colores azul cobalto #0047AB y gris técnico #4A4A4A, negro para ejes y leyendas, sin sombras, sin gradientes, sin texto incrustado. Gráfico de líneas dual-axis: eje izquierdo costo acumulado ($), eje derecho lead-time (semanas). Dos curvas por método (Tradicional vs AM). Eje X: número de unidades (1 a 200). Curvas claras con marcadores circulares, estilo profesional IEEE."
+    },
+    "fig5.png": {
+        "prompt_ia": "2D technical vector diagram, engineering schematic, flat design, minimalista, fondo blanco puro, colores azul cobalto #0047AB y gris técnico #4A4A4A, negro para líneas y barras, sin sombras, sin gradientes, sin texto incrustado. Gráfico de barras agrupadas horizontal comparativo (benchmarking) mostrando 6 parámetros clave: Masa, Tiempo ensamblaje, Número interfaces, Costo unidad, Flexibilidad diseño y Mantenibilidad. Dos barras por parámetro (Tradicional en gris, AM en azul cobalto). Porcentajes o valores relativos claros. Estilo IEEE limpio, profesional y preciso."
+    },
+    "fig6.png": {
+        "prompt_ia": "2D technical vector diagram, engineering schematic, flat design, minimalista, fondo blanco puro, colores azul cobalto #0047AB y gris técnico #4A4A4A, negro para líneas y flechas, sin sombras, sin gradientes, sin texto incrustado. Diagrama conceptual de hoja de ruta tecnológica para fabricación aditiva en satélites: timeline horizontal desde 2025 hasta 2035 con hitos clave (Calificación estandarizada, Materiales multifuncionales, Manufactura in-orbit, Constelaciones sostenibles). Bloques conectados por flechas de progreso, iconos técnicos simples (cohete, antena, satélite, engranajes). Estilo IEEE limpio, profesional y orientado a futuro."
+    }
+}
