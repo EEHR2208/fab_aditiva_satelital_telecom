@@ -1,0 +1,9 @@
+```text
+Diagrama vectorial técnico 2D en formato de publicación IEEE, estilo esquemático plano, minimalista, fondo blanco puro. Paleta de colores técnicos: azul cobalto #0047AB para destacar componentes aditivos y canales internos, gris oscuro #4A4A4A para bordes mecánicos y achurado transversal, negro para líneas de cota y texto. Composición en dos paneles etiquetados como "(a) Bracket Estructural" y "(b) Antena RF SATCOM". Panel (a): vista en corte parcial de un bracket espacial mostrando la cubierta exterior sólida y una matriz interna de estructura lattice triangular-hexagonal visible con llamadas de texto "Estructura Lattice Interna" y "PBF-LB/M". Panel (b): sección transversal longitudinal de una antena horn de radiofrecuencia mostrando la guía de ondas integrada y canales de refrigeración disipativa interna con llamadas de texto "Guía de Ondas Integrada" y "Canales Térmicos". Estética limpia, líneas finas precisas, tipografía sans-serif profesional, ilustración científica para ingeniería aeroespacial.
+
+```
+
+```text
+2D technical vector diagram in IEEE publication format, flat schematic design, minimalist, pure white background. Technical color palette: cobalt blue #0047AB for additive features and internal channels, dark grey #4A4A4A for mechanical outer walls and cross-section hatching, black for dimension lines and labels. Two-panel side-by-side layout labeled "(a) Structural Bracket" and "(b) SATCOM RF Antenna". Panel (a): partial cutaway view of a space bracket showing a solid outer skin and an internal triangular-hexagonal lattice matrix with pointer labels "Internal Lattice Structure" and "PBF-LB/M". Panel (b): longitudinal cross-section of an RF horn antenna displaying an integrated waveguide and internal cooling thermal channels with pointer labels "Integrated Waveguide" and "Thermal Channels". Clean aesthetic, precise fine vector lines, professional sans-serif typography, aerospace engineering publication quality figure.
+
+```

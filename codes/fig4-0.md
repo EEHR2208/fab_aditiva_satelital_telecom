@@ -1,0 +1,9 @@
+```text
+Diagrama vectorial técnico 2D en formato de publicación IEEE, estilo esquemático plano, minimalista, fondo blanco puro. Paleta de colores técnicos: azul cobalto #0047AB para diseño de fabricación aditiva (AM) y gris técnico #4A4A4A para diseño tradicional. Composición de dos paneles polares lado a lado: (a) Plano E y (b) Plano H. Cada diagrama polar cuenta con una rejilla de círculos concéntricos graduados en dB (-30 dB, -20 dB, -10 dB, 0 dB) y marcas angulares de 0° a 360° en pasos de 30°. Dos trazos superpuestos en cada panel: línea discontinua gris para el diseño tradicional y línea continua azul cobalto con directividad óptima y atenuación mejorada en lóbulos laterales para el diseño AM. Leyenda técnica clara, tipografía sans-serif limpia, ilustración científica para ingeniería aeroespacial.
+
+```
+
+```text
+2D technical vector diagram in IEEE publication format, flat schematic minimalist design, pure white background. Technical color palette: cobalt blue #0047AB for additive manufacturing (AM) design and technical grey #4A4A4A for traditional baseline design. Side-by-side two polar plot panels layout: (a) E-Plane and (b) H-Plane. Each polar chart features a concentric circular grid graded in dB (-30 dB, -20 dB, -10 dB, 0 dB) and angular tick marks from 0° to 360° in 30° steps. Two curves overlaid in each panel: dashed grey line for traditional design and solid cobalt blue line highlighting main lobe directivity and improved sidelobe suppression for AM design. Clear technical legend, clean sans-serif typography, professional aerospace engineering journal figure quality.
+
+```
