@@ -6,20 +6,25 @@ Resulta particularmente llamativo comprobar hasta qué punto una correcta aplica
 
 Siguiendo la aproximación validada por Boschetto et al. \cite{Boschetto2023}, el bracket estructural primario y la plataforma de interfaz experimentaron reducciones de masa del 32\% y 27\% respectivamente respecto al diseño baseline mecanizado. Más importante aún, las frecuencias naturales fundamentales se mantuvieron por encima de los umbrales críticos de vibración de lanzamiento.
 
-\begin{table}[h]
+\begin{table}[htbp]
 \centering
 \caption{Resultados de masa y análisis modal comparativo}
 \label{tab:resultados_peso_frecuencia}
-\begin{tabular}{lccc}
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\begin{tabularx}{\columnwidth}{>{\raggedright\arraybackslash}X c c c}
 \hline
-\textbf{Componente} & \textbf{Masa (kg)} & \textbf{Reducción (\%)} & \textbf{1ª Frecuencia (Hz)} \\
+\textbf{Componente} & 
+\makecell[c]{\textbf{Masa}\\\textbf{(kg)}} & 
+\makecell[c]{\textbf{Reducción}\\\textbf{(\%)}} & 
+\makecell[c]{\textbf{1\textsuperscript{a} Frecuencia}\\\textbf{(Hz)}} \\
 \hline
-Bracket baseline & 1.85 & - & 142 \\
+Bracket baseline & 1.85 & --- & 142 \\
 Bracket optimizado & 1.26 & 31.9 & 138 \\
-Plataforma interfaz & 12.4 & - & 85 \\
+Plataforma interfaz & 12.4 & --- & 85 \\
 Plataforma AM & 9.05 & 27.0 & 91 \\
 \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
 Estos valores confirman que la estrategia de thickening local en zonas de concentración de esfuerzo compensa eficazmente la pérdida teórica de rigidez asociada a las celosías. No obstante, cabe matizar que la anisotropía del material impreso exige una orientación cuidadosa de las piezas durante la fabricación.

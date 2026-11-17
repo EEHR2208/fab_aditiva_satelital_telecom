@@ -6,13 +6,17 @@ Resulta particularmente llamativo constatar cómo los beneficios de la fabricaci
 
 Talpur et al. \cite{Talpur2025} destacan que, si bien los componentes RF fabricados aditivamente ofrecen flexibilidad geométrica excepcional, tienden a mostrar cierta variabilidad en propiedades superficiales que puede afectar el rendimiento en entornos espaciales reales. En nuestro caso, no obstante, la integración de estructuras internas de guía de onda permitió no solo mantener sino mejorar ligeramente el ancho de banda operativo. Esta capacidad de consolidar funciones mecánicas, térmicas y electromagnéticas en una sola pieza representa una ventaja competitiva clara para constelaciones LEO, donde cada kilogramo ahorrado se traduce directamente en más satélites por lanzamiento o mayor vida útil.
 
-\begin{table}[h]
+\begin{table}[htbp]
 \centering
 \caption{Benchmarking de enfoques tradicional versus fabricación aditiva en componentes satelitales para telecomunicaciones}
 \label{tab:benchmarking_tradicional_am}
-\begin{tabular}{lcc}
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{tabularx}{\columnwidth}{>{\raggedright\arraybackslash}X c c}
 \hline
-\textbf{Parámetro} & \textbf{Enfoque Tradicional} & \textbf{Fabricación Aditiva} \\
+\textbf{Parámetro} & 
+\makecell[c]{\textbf{Enfoque}\\\textbf{Tradicional}} & 
+\makecell[c]{\textbf{Fabricación}\\\textbf{Aditiva}} \\
 \hline
 Masa (relativa) & 100\% & 68--73\% \\
 Tiempo de ensamblaje & 100\% & 35--45\% \\
@@ -21,7 +25,7 @@ Costo por unidad (lotes medianos) & Referencia & -35\% a -50\% \\
 Flexibilidad de diseño & Limitada & Alta \\
 Mantenibilidad & Media & Potencialmente alta \\
 \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
 Estos números no solo confirman la hipótesis inicial, sino que sugieren que la brecha entre laboratorio y operación orbital se está cerrando más rápido de lo esperado hace solo cinco años.
