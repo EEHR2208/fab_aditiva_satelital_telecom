@@ -23,19 +23,24 @@ Uno de los desafíos persistentes al escalar estas metodologías radica en la el
 
 Para componentes estructurales primarios se priorizó la aleación de aluminio AlSi10Mg por su excelente relación resistencia-peso, buena soldabilidad y madurez en procesos PBF-LB/M. En elementos RF, particularmente alimentadores y antenas en banda Ku, se optó por procesos que permitan superficies conductoras de alta calidad. Vazquez-Peralvo et al. demostraron resultados prometedores fabricando completamente por aditivo un feeder link en banda Ku, validando el uso de técnicas híbridas metal-polímero con metalización posterior \cite{VazquezPeralvo2025}.
 
-\begin{table}[h]
+\begin{table}[htbp]
 \centering
 \caption{Propiedades mecánicas y térmicas de materiales seleccionados para fabricación aditiva}
 \label{tab:propiedades_materiales}
-\begin{tabular}{lccc}
+\scriptsize % Reduce un punto más la fuente para evitar desbordes horizontales
+\setlength{\tabcolsep}{3pt} % Reduce el margen interno entre columnas (por defecto es 6pt)
+\begin{tabularx}{\columnwidth}{>{\raggedright\arraybackslash}X c c c}
 \hline
-\textbf{Material} & \textbf{Módulo Elasticidad (GPa)} & \textbf{Límite Elástico (MPa)} & \textbf{Conductividad Térmica (W/m·K)} \\
+\textbf{Material} & 
+\makecell[c]{\textbf{Módulo}\\\textbf{Elasticidad}\\\textbf{(GPa)}} & 
+\makecell[c]{\textbf{Límite}\\\textbf{Elástico}\\\textbf{(MPa)}} & 
+\makecell[c]{\textbf{Conductividad}\\\textbf{Térmica}\\\textbf{(W/m$\cdot$K)}} \\
 \hline
 AlSi10Mg (PBF) & 68--75 & 230--280 & 130--150 \\
 Ti-6Al-4V (PBF) & 110--120 & 850--950 & 6.7 \\
 PLA + Fibra Carbono & 8--12 & 80--110 & 0.8--1.2 \\
 \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
 La decisión final combinó PBF-LB/M para piezas estructurales críticas y FDM de alto rendimiento con post-procesado para componentes secundarios, buscando el equilibrio óptimo entre prestaciones, costo y lead-time.
