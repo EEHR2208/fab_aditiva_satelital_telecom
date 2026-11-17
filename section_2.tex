@@ -16,20 +16,25 @@ Talpur et al. ofrecen en su revisión sistemática una cartografía detallada de
 
 En muchos casos estudiados, los componentes AM logran reducir masa entre 30\% y 50\% respecto a sus equivalentes mecanizados, además de integrar funciones de guía de onda y disipación térmica en una sola pieza. Estas ventajas resultan especialmente valiosas en constelaciones LEO donde el costo por kilogramo lanzado sigue dictando viabilidad económica.
 
-\begin{table}[h]
+\begin{table}[htbp]
 \centering
 \caption{Comparación de tecnologías de fabricación aditiva para componentes RF satelitales}
 \label{tab:tecnologias_am}
-\begin{tabular}{lcccc}
+\footnotesize % Reduce el tamaño del texto de la tabla para adaptarla al estándar IEEE
+\begin{tabularx}{\columnwidth}{l X c X X}
 \hline
-\textbf{Tecnología} & \textbf{Materiales típicos} & \textbf{Resolución} & \textbf{Ventajas principales} & \textbf{Limitaciones} \\
+\makecell[l]{\textbf{Tecnología}} & 
+\makecell[l]{\textbf{Materiales}\\\textbf{típicos}} & 
+\makecell[c]{\textbf{Resolución}} & 
+\makecell[l]{\textbf{Ventajas}\\\textbf{principales}} & 
+\makecell[l]{\textbf{Limitaciones}} \\
 \hline
 FDM & Polímeros, composites & Media & Bajo costo, rapidez & Acabado superficial \\
 SLA & Resinas fotopolimerizables & Alta & Detalle fino & Propiedades mecánicas \\
 DMLS/SLM & Al, Ti, Acero inoxidable & Alta & Alta conductividad & Costo y distorsión térmica \\
 Binder Jetting & Cerámicos, metales & Media-Alta & Escalabilidad & Post-procesado extenso \\
 \hline
-\end{tabular}
+\end{tabularx}
 \end{table}
 
 \subsection{2.3 Casos de Estudio en Plataformas Satelitales}
